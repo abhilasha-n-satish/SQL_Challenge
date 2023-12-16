@@ -2,8 +2,7 @@
 
 ## Introduction
 
-Steve runs a top-end car showroom but his data analyst has just quit and left him without his crucial insights.
-Can you analyse the following data to provide him with all the answers he requires?
+In the high-stakes world of luxury car sales, I've stepped in as the go-to data analyst for Steve's top-end car showroom. With the sudden departure of the previous analyst, the need for critical data-driven insights has never been more pressing. I'm here to delve into the showroom's data, providing Steve with the essential analysis and answers required to navigate the competitive landscape of luxury car sales successfully.
 
 ## Table Creation
 ```sql
