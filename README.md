@@ -1,10 +1,11 @@
-# SQL_Challenge
+# SERIES OF SQL CHALLENGES BY STEELDATA:
 
-This is a series of SQL challenges from Steeldata - https://www.steeldata.org.uk/home.html.
+Welcome to a series of SQL challenges curated by Steeldata. Check out their site here. Matt has masterfully crafted this amazing series to assist data enthusiasts in gaining practical experience. Participating in these challenges has significantly deepened my understanding of the subject matter and sharpened my SQL skills!
 
-Matt has curated this amazing series of challenges to help the data enthusiast gain experience. It has also helped me gain a deeper understanding of the Subject Matter! 
+## ABOUT THE CHALLENGES:
+Every challenge in this series is crafted to present a distinctive scenario, encompassing a spectrum from straightforward to intricate data queries, all aimed at extracting pivotal insights. These challenges serve a dual purpose: they not only test your SQL prowess but are also meticulously designed to augment your skills, imparting a deeper understanding of data analysis through practical application. Catering to a diverse range of skill levels, from novices embarking on their SQL journey to seasoned professionals seeking to polish their expertise, these challenges provide an invaluable pathway to explore and master the nuances of SQL and data analytics.
 
-Find below the challenges,
+##### Find below the challenges,
 
 1. Challenge 1 - [Steve's Car Showroom](Steve%27s%20Car%20Showroom.md)
 2. Challenge 2 - [Esports tournament](esports%20tournament.md)
