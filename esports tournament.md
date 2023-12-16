@@ -2,8 +2,7 @@
 
 ## Introduction
 
-The top eSports competitors from across the globe have gathered to battle it out.
-Can you analyse the following data to find out all about the tournament?
+n the electrifying arena of global eSports, I'm stepping in to analyze key data from one of the most intense and competitive tournaments in the scene. With top eSports competitors from around the world clashing in this digital battleground, my role is to dissect and understand the nuances of the tournament through in-depth data analysis. Join me in uncovering the stories, strategies, and statistics that define this exhilarating event.
 
 ## Table Creation
 ```sql
