@@ -2,8 +2,7 @@
 
 ## Introduction
 
-You are a Finance Analyst working for 'The Big Bank'
-You have been tasked with finding out about your customers and their banking behavior. Examine the accounts they hold and the type of transactions they make to develop greater insight into your customers.
+In my capacity as a Finance Analyst at 'The Big Bank', I am embarking on a comprehensive analysis of our customers' banking behaviors. My objective is to meticulously scrutinize the diverse range of accounts they hold and the specific types of transactions they engage in. This deep dive into our banking data is aimed at developing a profound understanding of our customer base, which will be pivotal in enhancing our financial services and tailoring them to meet the evolving needs of our clients.
 
 ## Table Creation
 ```sql
